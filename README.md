@@ -12,3 +12,5 @@ learning about github and license
 3. UBANTU
 4. BSD 2
 5. BSD 3
+
+THANK YOU!
